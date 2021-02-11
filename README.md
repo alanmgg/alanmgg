@@ -9,42 +9,13 @@ You can follow me in the next sites/plataforms where I constantly publish new co
 
 ### A little more about me... 
 
-```php
-<?php
 
-namespace AshBaker;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Qquicker',
-                'position' => 'Product Owner'         
-            ]
-        ];
-    }
-
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Laravel::class,
-            Vuejs::class,
-            Angular::class,
-            ReactNative::class,
-            TailwindCss::class,
-            Aws::class,
-        ];
-    }
-
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source.';
-    }
+```javascript
+const alanmgg = {
+  pronouns: "he" | "his",
+  code: [Javascript, HTML, CSS, Python, Java, PHP],
+  tools: [React, Node],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  challenge: "Write quality code"
 }
-
-?>
 ```
