@@ -19,4 +19,4 @@ const alanmgg = {
   challenge: "Write quality code"
 }
 ```
-<center><img src="https://elcorresponsal.com.mx/wp-content/uploads/2018/09/Dino_non-birthday_version.gif"></center>
+<img src="https://pa1.narvii.com/6957/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq.gif" align="center">
