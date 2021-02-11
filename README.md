@@ -19,3 +19,4 @@ const alanmgg = {
   challenge: "Write quality code"
 }
 ```
+<img src="https://gifmaniacos.es/wp-content/uploads/2017/03/gif-dinosaurio-terrible-gifmaniacos.es-6.gif">
