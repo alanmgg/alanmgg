@@ -19,4 +19,3 @@ const alanmgg = {
   challenge: "Write quality code"
 }
 ```
-<img src="https://pa1.narvii.com/6957/d2eb600c80c27ee32a019bcddccbc83ec7394c92r1-500-150_hq.gif" align="center">
