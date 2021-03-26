@@ -13,8 +13,8 @@ You can follow me in the next sites/plataforms where I constantly publish new co
 ```javascript
 const alanmgg = {
   pronouns: "he" | "his",
-  code: [Javascript, HTML, CSS, Python, Java, PHP],
-  tools: [React, Node],
+  code: [Javascript, HTML, CSS, Python, Java, PHP, C, C++],
+  tools: [React, Node, Express],
   architecture: ["microservices", "event-driven", "design system pattern"],
   challenge: "Write quality code"
 }
