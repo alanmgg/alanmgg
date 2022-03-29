@@ -6,23 +6,23 @@
 <h3 align="center">Ingeniero en computación | Programador Jr | Full Stack Developer</h3>
 
 <p align="center">
-  <a href="https://github.com/alanmgg" target="blank">
+  <a href="https://github.com/alanmgg" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="github" height="30" width="40" />
   </a>
-  <a href="https://www.linkedin.com/in/alanmgg/" target="blank">
+  <a href="https://www.linkedin.com/in/alanmgg/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="30" width="40" />
   </a>
-  <a href="https://www.facebook.com/Alan.Bananas.0" target="blank">
+  <a href="https://www.facebook.com/Alan.Bananas.0" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="facebook" height="30" width="40" />
   </a>
-  <a href="https://www.instagram.com/alanmg._/" target="blank">
+  <a href="https://www.instagram.com/alanmg._/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="instagram" height="30" width="40" />
   </a>
-  <a href="https://twitter.com/AlanVlogz" target="blank">
+  <a href="https://twitter.com/alanmgggg" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://alanmgg.github.io/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="twitter" height="30" width="40" />
+  <a href="https://alanmg.netlify.app/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg" alt="page" height="30" width="40" />
   </a>
 </p>
 
