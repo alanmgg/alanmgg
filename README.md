@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">¡Hola! Soy Alan</h1>
-<h3 align="center">Ingeniero en computación | Programador Jr | Full Stack Developer</h3>
+<h3 align="center">Ingeniero en computación | Desarrollador de software | Full Stack Developer</h3>
 
 <p align="center">
   <a href="https://github.com/alanmgg" target="_blank">
