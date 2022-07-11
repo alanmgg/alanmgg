@@ -31,7 +31,7 @@
 
 <p align="center">
   <em>
-Un desarrollador joven pero experimentado, un entusiasta de HTML y CSS, un tipo un poco obsesionado con la calidad del código. También soy co-fundador de OrangeCorp, un proyecto empresarial creado con amigos. Actualmente me desarrollo dentro de una empresa, aportando mis conocimientos y ganando experiencia. Trabajo con lenguajes de programación tales como Java, JavaScript, PHP, C, C++, Python, entre otros. Si tienes un proyecto que quieres iniciar o crees que necesitas mi ayuda con algo, ponte en contacto. 💡
+Un desarrollador joven pero experimentado, un entusiasta de HTML y CSS, un tipo un poco obsesionado con la calidad del código. Actualmente me desarrollo dentro de una empresa, aportando mis conocimientos y ganando experiencia. Trabajo con lenguajes de programación tales como Java, JavaScript, PHP, C, C++, Python, entre otros. Ocupo frameworks como React JS y Express JS. Si tienes un proyecto que quieres iniciar o crees que necesitas mi ayuda con algo, ponte en contacto. 💡
   </em>
 </p>
 
@@ -43,12 +43,11 @@ Un desarrollador joven pero experimentado, un entusiasta de HTML y CSS, un tipo 
   <img alt="HTML" title="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
   <img alt="CSS" title="CSS" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
   <img alt="Sass" title="Sass" width="40px" src="https://javadesde0.com/wp-content/uploads/sass-1.jpg">
-  <img alt="Java" title="Java" width="40px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png">
   <img alt="PHP" title="PHP" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
-  <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+  <img alt="Nodejs" title="Nodejs" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
+  <img alt="React" title="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png">
   <img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
   <img title="FastApi" alt="FastApi" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
-  <img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">
   <img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
   <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
   <img title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
@@ -56,7 +55,6 @@ Un desarrollador joven pero experimentado, un entusiasta de HTML y CSS, un tipo 
   <img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
   <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
   <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
-  <img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 </p>
 
 ```javascript
