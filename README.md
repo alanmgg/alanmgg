@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alanmgg/readme/main/cover.png" height="230"/>
+  <img src="https://raw.githubusercontent.com/alanmgg/Assets/main/Readme/cover.png?token=GHSAT0AAAAAABVBQ4CGFHPO4HQ47V523QSAYXWWMTQ" height="230"/>
 </p>
 
 <h1 align="center">¡Hola! Soy Alan</h1>
