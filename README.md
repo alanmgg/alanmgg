@@ -24,7 +24,7 @@
   <a href="https://twitter.com/alanmgggg" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="30" width="40" />
   </a>
-  <a href="https://alanmg.vercel.app/" target="_blank">
+  <a href="https://alanmg.me/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/react.svg" alt="page" height="30" width="40" />
   </a>
 </p>
