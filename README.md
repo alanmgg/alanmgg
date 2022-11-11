@@ -61,10 +61,10 @@ Un desarrollador joven pero experimentado, un entusiasta de HTML y CSS, un tipo 
 const alanmgg = {
   fullstack: "Backend" | "Frontend",
   ide: ["VS Code", "Sublime Text", "NetBeans"],
-  code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C", "C++"],
+  code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C", "Typescript"],
   api: ["Django", "FastApi", "Flask"],
   tools: ["ReactJS", "NodeJS", "Express"],
-  database: ["MongoDB", "SQL", "PostgreSQL", "Oracle"],
+  database: ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
   challenge: "Write quality code"
 }
 ```
