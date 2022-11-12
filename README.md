@@ -31,7 +31,9 @@
 
 <p align="center">
   <em>
-Un desarrollador joven pero experimentado, un entusiasta de HTML y CSS, un tipo un poco obsesionado con la calidad del código. Actualmente me desarrollo dentro de una empresa, aportando mis conocimientos y ganando experiencia. Trabajo con lenguajes de programación tales como Java, JavaScript, PHP, C, C++, Python, entre otros. Ocupo frameworks como React JS y Express JS. Si tienes un proyecto que quieres iniciar o crees que necesitas mi ayuda con algo, ponte en contacto. 💡
+Un apasionado desarrollador de software, apasionado por el desarrollo web. Me desenvuelvo como Full Stack ya que manejo de igual manera el Frontend y el Backend. Originario de la Ciudad de México. Disfruto convirtiendo problemas complejos en diseños simples, bellos e intuitivos.
+
+Mi trabajo es construir su sitio web para que sea funcional y fácil de usar, pero al mismo tiempo atractivo. Además, agrego un toque personal a su producto y me aseguro de que sea llamativo y fácil de usar. Mi objetivo es transmitir su mensaje e identidad de la manera más creativa. He creado ya diseño web para muchas empresas de marcas famosas. 💡
   </em>
 </p>
 
