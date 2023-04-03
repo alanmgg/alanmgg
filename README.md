@@ -24,7 +24,7 @@
   <a href="https://twitter.com/alanmgggg" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="twitter" height="30" width="30" />
   </a>
-  <a href="https://alanmg.me/" target="_blank">
+  <a href="https://alanfmorag.vercel.app/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" alt="page" height="30" width="30" />
   </a>
 </p>
@@ -71,7 +71,7 @@ Mi trabajo es construir su sitio web para que sea funcional y fácil de usar, pe
 ```javascript
 const alanmgg = {
   fullstack: "Backend" | "Frontend",
-  ide: ["VS Code", "Sublime Text", "NetBeans"],
+  ide: ["VS Code", "Sublime Text", "NetBeans", "Brackets"],
   code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C", "Typescript"],
   api: ["Django", "FastApi", "Flask"],
   tools: ["ReactJS", "NodeJS", "Express"],
