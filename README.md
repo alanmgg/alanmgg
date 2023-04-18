@@ -31,9 +31,7 @@
 
 <p align="center">
   <em>
-Un apasionado desarrollador de software y por el desarrollo web. Me desenvuelvo como Full Stack ya que manejo de igual manera el Frontend y el Backend. Originario de la Ciudad de México. Disfruto convirtiendo problemas complejos en diseños simples, bellos e intuitivos.
-
-Mi trabajo es construir su sitio web para que sea funcional y fácil de usar, pero al mismo tiempo atractivo. Además, agrego un toque personal a su producto y me aseguro de que sea llamativo y fácil de usar. Mi objetivo es transmitir su mensaje e identidad de la manera más creativa. He creado ya diseño web para muchas empresas de marcas famosas. 💡
+Soy un desarrollador Full Stack con experiencia en Frontend y Backend. Me gusta solucionar problemas complejos y crear diseños simples y atractivos. Me enfoco en el desarrollo de aplicaciones web y móviles y me mantengo actualizado en las últimas tendencias tecnológicas. Estoy comprometido con la calidad del producto y trabajo bien en equipo. Disfruto convirtiendo problemas complejos en diseños simples, bellos e intuitivos. 💡
   </em>
 </p>
 
