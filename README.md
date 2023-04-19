@@ -24,7 +24,7 @@
   <a href="https://twitter.com/alanmgggg" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="twitter" height="30" width="30" />
   </a>
-  <a href="https://alanfmorag.vercel.app/" target="_blank">
+  <a href="http://www.alanfmorag.tech/" target="_blank">
     <img align="center" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" alt="page" height="30" width="30" />
   </a>
 </p>
