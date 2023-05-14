@@ -61,19 +61,19 @@ Soy un desarrollador Full Stack con experiencia en Frontend y Backend. Me gusta 
 <p align="center" classname="justify-content: center;">
   <img align="center" title="Telcel" alt="Telcel" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telcel_logo.svg" />  
   <img align="center" title="AT&T" alt="AT&T" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/AT%26T_logo_2016.svg" />  
-  <img align="center" title="Opmantek" alt="Opmantek" width="40px" src="https://iitechsolutions.com/wp-content/uploads/2021/06/OpmantekLogo-Tagline-V-ColourDark-750w.png" />  
+  <img align="center" title="Opmantek" alt="Opmantek" width="80px" src="https://www.nspectrum.com/archive/image/article2/opmantek_600x200.png" />  
   <img align="center" title="Abricot" alt="Abricot" width="70px" src="http://abricot.com.mx/images/logo-abricot.png" />  
   <img align="center" title="UNAM" alt="UNAM" width="35px" src="https://i0.wp.com/www.atmosfera.unam.mx/wp-content/uploads/2019/06/unam-escudo-azul.png?fit=1484%2C1662&ssl=1" />  
 </p>
 
 ```javascript
-const alanmgg = {
+let alanmgg = {
   fullstack: "Backend" | "Frontend",
   ide: ["VS Code", "Sublime Text", "NetBeans", "Brackets"],
   code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C", "Typescript"],
   api: ["Django", "FastApi", "Flask"],
-  tools: ["ReactJS", "NodeJS", "Express"],
-  database: ["MongoDB", "MySQL", "PostgreSQL", "Oracle"],
+  tools: ["ReactJS", "NodeJS", "Express", "NextJS"],
+  database: ["MongoDB", "MySQL", "PostgreSQL", "Oracle", "Firebase"],
   challenge: "Write quality code"
 }
 ```
