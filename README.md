@@ -3,29 +3,32 @@
 </p>
 
 <h1 align="center">¡Hola! Soy Alan</h1>
-<h3 align="center">Computer Engineer | Software Developer | Full Stack Developer</h3>
+
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Software+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
+</p>
 
 <p align="center">
   <a href="https://github.com/alanmgg" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" alt="github" height="30" width="30" />
+    <img src=https://img.shields.io/badge/github-%2300acee.svg?color=000000&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.linkedin.com/in/alanmgg/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" alt="linkedin" height="30" width="30" />
+    <img src=https://img.shields.io/badge/linkedin-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.behance.net/alanmgg" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3991/3991886.png" alt="behance" height="30" width="30" />
+    <img src=https://img.shields.io/badge/behance-%2300acee.svg?color=0055FD&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.facebook.com/Alan.Bananas.0" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733547.png" alt="facebook" height="30" width="30" />
+    <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=00549D&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
   </a>
   <a href="https://www.instagram.com/alanmg._/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" alt="instagram" height="30" width="30" />
+    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
   </a>
   <a href="https://twitter.com/alanmgggg" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="twitter" height="30" width="30" />
+    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
   <a href="http://www.alanfmorag.tech/" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/1688/1688400.png" alt="page" height="30" width="30" />
+    <img src=https://img.shields.io/badge/portafolio-%2300acee.svg?color=00AC62&style=for-the-badge&logo=Microsoft-edge&logoColor=white alt=portafolio style="margin-bottom: 5px;" />
   </a>
 </p>
 
@@ -35,45 +38,34 @@ Soy un desarrollador Full Stack con experiencia en Frontend y Backend. Me gusta 
   </em>
 </p>
 
+<p align="center">
+  <table align="center">
+    <tr border="none">
+      <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanmgg&theme=default&show_icons=true&count_private=true&locale=es" />
+        <br></br>
+        <img align="center" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alanmgg&theme=default&hide_border=false&locale=es" /> 
+      </td>
+
+   <td width="50%" align="center">
+        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alanmgg&theme=default&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es" />
+      </td>
+    </tr>
+  </table>
+</p>        
+
 <h3 align="center">Habilidades profesionales</h3>
 <p align="center">
-  <img align="center" title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
-  <img align="center" title="JavaScript" alt="JS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">
-  <img align="center" title="Typescript" alt="Typescript" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg">
-  <img align="center" title="HTML" alt="HTML" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png">
-  <img align="center" title="CSS" alt="CSS" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919826.png">
-  <img align="center" title="Sass" alt="Sass" width="40px" src="https://javadesde0.com/wp-content/uploads/sass-1.jpg">
-  <img align="center" title="PHP" alt="PHP" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png">
-  <img align="center" title="Nodejs" alt="Nodejs" width="40px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png">
-  <img align="center" title="React" alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/React.svg/768px-React.svg.png">
-  <img align="center" title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">
-  <img align="center" title="FastApi" alt="FastApi" width="40px" src="https://cdn.worldvectorlogo.com/logos/fastapi.svg">
-  <img align="center" title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">
-  <img align="center" title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
-  <img align="center" title="PostgreSQL" alt="PostgreSQL" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg">
-  <img align="center" title="Oracle" alt="Oracle" width="40px" src="https://www.fabriconsulting.com.mx/assets/images/d234566d9d-1-512x512.png">
-  <img align="center" title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">
-  <img align="center" title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">
-  <img align="center" title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,express,figma,firebase,github,html,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,fastapi,postman,py,react,ts,vscode,sass,angular,ansible,bash,django,flask,grafana,heroku,php,postgres,rabbitmq,swift,vercel,vite&perline=14" />
+  </a>
 </p>
 
 <h3 align="center">Clientes</h3>
 <p align="center" classname="justify-content: center;">
-  <img align="center" title="Telcel" alt="Telcel" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telcel_logo.svg" />  
-  <img align="center" title="AT&T" alt="AT&T" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/AT%26T_logo_2016.svg" />  
-  <img align="center" title="Opmantek" alt="Opmantek" width="80px" src="https://www.nspectrum.com/archive/image/article2/opmantek_600x200.png" />  
-  <img align="center" title="Abricot" alt="Abricot" width="70px" src="http://abricot.com.mx/images/logo-abricot.png" />  
-  <img align="center" title="UNAM" alt="UNAM" width="35px" src="https://i0.wp.com/www.atmosfera.unam.mx/wp-content/uploads/2019/06/unam-escudo-azul.png?fit=1484%2C1662&ssl=1" />  
+  <img align="center" title="Telcel" alt="Telcel" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telcel_logo.svg" />  
+  <img align="center" title="AT&T" alt="AT&T" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/AT%26T_logo_2016.svg" />  
+  <img align="center" title="Opmantek" alt="Opmantek" width="90px" src="https://www.nspectrum.com/archive/image/article2/opmantek_600x200.png" />  
+  <img align="center" title="Abricot" alt="Abricot" width="80px" src="http://abricot.com.mx/images/logo-abricot.png" />  
+  <img align="center" title="UNAM" alt="UNAM" width="45px" src="https://i0.wp.com/www.atmosfera.unam.mx/wp-content/uploads/2019/06/unam-escudo-azul.png?fit=1484%2C1662&ssl=1" />  
 </p>
-
-```javascript
-let alanmgg = {
-  fullstack: "Backend" | "Frontend",
-  ide: ["VS Code", "Sublime Text", "NetBeans", "Brackets"],
-  code: ["Javascript", "HTML", "CSS", "Python", "Java", "PHP", "C", "Typescript"],
-  api: ["Django", "FastApi", "Flask"],
-  tools: ["ReactJS", "NodeJS", "Express", "NextJS"],
-  database: ["MongoDB", "MySQL", "PostgreSQL", "Oracle", "Firebase"],
-  challenge: "Write quality code"
-}
-```
