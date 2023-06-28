@@ -57,7 +57,7 @@ Soy un desarrollador Full Stack con experiencia en Frontend y Backend. Me gusta 
 <h3 align="center">Habilidades profesionales</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,express,figma,firebase,github,html,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,fastapi,postman,py,react,ts,vscode,sass,angular,ansible,bash,django,flask,grafana,heroku,php,postgres,rabbitmq,swift,vercel,vite&perline=14" />
+    <img src="https://skillicons.dev/icons?i=git,aws,bootstrap,css,discord,express,figma,firebase,github,html,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,fastapi,postman,py,react,ts,vscode,sass,angular,ansible,bash,django,flask,grafana,heroku,php,postgres,rabbitmq,swift,vercel,vite,docker&perline=14" />
   </a>
 </p>
 
