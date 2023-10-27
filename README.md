@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola! Soy Alan</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Web+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Python+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
