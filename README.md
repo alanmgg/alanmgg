@@ -68,7 +68,7 @@ Soy un desarrollador Full Stack con experiencia en Frontend y Backend. Me gusta 
   <img align="center" title="Opmantek" alt="Opmantek" width="90px" src="https://www.nspectrum.com/archive/image/article2/opmantek_600x200.png" />  
   <img align="center" title="Abricot" alt="Abricot" width="80px" src="http://abricot.com.mx/images/logo-abricot.png" />  
   <img align="center" title="UNAM" alt="UNAM" width="45px" src="https://i0.wp.com/www.atmosfera.unam.mx/wp-content/uploads/2019/06/unam-escudo-azul.png?fit=1484%2C1662&ssl=1" />  
-  <img align="center" title="Cyttek Group" alt="Cyttek Group" width="75px" src="https://media.licdn.com/dms/image/C4E0BAQHOQpVX7TtAAA/company-logo_200_200/0/1635961319657?e=1698278400&v=beta&t=MRCmLTltcdzuDkpPPfccZPo5LmjcjBjXEuWKKt5Z6uU" />
+  <img align="center" title="Cyttek Group" alt="Cyttek Group" width="75px" src="https://cyttek.com/img/logo-dark.png" />
   <img align="center" title="Banco Azteca" alt="Banco Azteca" width="80px" src="https://comunidadblogger.net/wp-content/uploads/2020/11/BANCO-AZTECA-LOGO-02.png" />
   <img align="center" title="CPM" alt="CPM" width="50px" src="http://1.bp.blogspot.com/-IJXrzjdErlM/TlwK6DI7GnI/AAAAAAAAATg/uVCuSDTrO4U/s1600/caja+popular+mexicana.jpg" />
 </p>
