@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola! Soy Alan</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Python+Developer;Full+Stack+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Cloud+Developer" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -34,7 +34,7 @@
 
 <p align="center">
   <em>
-Soy un desarrollador Full Stack con experiencia en Frontend y Backend. Me gusta solucionar problemas complejos y crear diseños simples y atractivos. Me enfoco en el desarrollo de aplicaciones web y móviles y me mantengo actualizado en las últimas tendencias tecnológicas. Estoy comprometido con la calidad del producto y trabajo bien en equipo. Disfruto convirtiendo problemas complejos en diseños simples, bellos e intuitivos. 💡
+Desarrollador Full Stack con experiencia en Frontend y Backend, especializado en el desarrollo de aplicaciones web y móviles. Enfocado en la resolución de problemas complejos y diseño atractivo. Actualizado en tendencias tecnológicas, comprometido con la calidad y habilidades destacadas para el trabajo en equipo. Conocimientos en desarrollo cloud y prácticas DevOps para una implementación eficiente y continua. 💡
   </em>
 </p>
 
