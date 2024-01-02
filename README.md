@@ -5,7 +5,7 @@
 <h1 align="center">¡Hola! Soy Alan</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Cloud+Developer" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Software+Enginner+DevOps" alt="Typing SVG" /></a>
 </p>
 
 <p align="center">
@@ -18,15 +18,6 @@
   <a href="https://www.behance.net/alanmgg" target="_blank">
     <img src=https://img.shields.io/badge/behance-%2300acee.svg?color=0055FD&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/Alan.Bananas.0" target="_blank">
-    <img src=https://img.shields.io/badge/facebook-%2300acee.svg?color=00549D&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://www.instagram.com/alanmg._/" target="_blank">
-    <img src=https://img.shields.io/badge/instagram-%ff5851db.svg?color=C13584&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/alanmgggg" target="_blank">
-    <img src=https://img.shields.io/badge/twitter-%2300acee.svg?color=1DA1F2&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-  </a>
   <a href="http://www.alanfmorag.tech/" target="_blank">
     <img src=https://img.shields.io/badge/portafolio-%2300acee.svg?color=00AC62&style=for-the-badge&logo=Microsoft-edge&logoColor=white alt=portafolio style="margin-bottom: 5px;" />
   </a>
@@ -34,7 +25,7 @@
 
 <p align="center">
   <em>
-Desarrollador Full Stack con experiencia en Frontend y Backend, especializado en el desarrollo de aplicaciones web y móviles. Enfocado en la resolución de problemas complejos y diseño atractivo. Actualizado en tendencias tecnológicas, comprometido con la calidad y habilidades destacadas para el trabajo en equipo. Conocimientos en desarrollo cloud y prácticas DevOps para una implementación eficiente y continua. 💡
+Ingeniero especializado en el desarrollo de aplicaciones web y móviles. Enfocado en la resolución de problemas complejos y diseño atractivo. Actualizado en tendencias tecnológicas, comprometido con la calidad y habilidades destacadas para el trabajo en equipo. Conocimientos en Desarrollo Cloud y prácticas DevOps para una implementación eficiente y continua. 💡
   </em>
 </p>
 
@@ -54,21 +45,20 @@ Desarrollador Full Stack con experiencia en Frontend y Backend, especializado en
   </table>
 </p>        
 
-<h3 align="center">Habilidades profesionales</h3>
+<h3 align="center">Habilidades y tecnológias</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,aws,gcp,bootstrap,tailwind,css,discord,express,figma,firebase,github,html,java,js,kotlin,linux,md,materialui,mongodb,mysql,nextjs,nodejs,fastapi,postman,py,react,ts,vscode,sass,angular,ansible,bash,django,flask,grafana,heroku,php,postgres,rabbitmq,swift,vercel,vite,docker,tauri&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,react,nextjs,angular,nodejs,fastapi,flask,django,firebase,mongodb,v,docker,kubernetes,jenkins,ansible,aws,gcp,heroku,mysql,postgres,vscode,git,linux&perline=9" />
   </a>
 </p>
 
-<h3 align="center">Clientes</h3>
+<h3 align="center">Empresas con las que he trabajado</h3>
 <p align="center" classname="justify-content: center;">
+  <img align="center" title="Abricot" alt="Abricot" width="80px" src="http://abricot.com.mx/images/logo-abricot.png" />  
   <img align="center" title="Telcel" alt="Telcel" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telcel_logo.svg" />  
   <img align="center" title="AT&T" alt="AT&T" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/AT%26T_logo_2016.svg" />  
-  <img align="center" title="Opmantek" alt="Opmantek" width="90px" src="https://www.nspectrum.com/archive/image/article2/opmantek_600x200.png" />  
-  <img align="center" title="Abricot" alt="Abricot" width="80px" src="http://abricot.com.mx/images/logo-abricot.png" />  
-  <img align="center" title="UNAM" alt="UNAM" width="45px" src="https://i0.wp.com/www.atmosfera.unam.mx/wp-content/uploads/2019/06/unam-escudo-azul.png?fit=1484%2C1662&ssl=1" />  
   <img align="center" title="Cyttek Group" alt="Cyttek Group" width="75px" src="https://cyttek.com/img/logo-dark.png" />
-  <img align="center" title="Banco Azteca" alt="Banco Azteca" width="80px" src="https://comunidadblogger.net/wp-content/uploads/2020/11/BANCO-AZTECA-LOGO-02.png" />
-  <img align="center" title="CPM" alt="CPM" width="50px" src="http://1.bp.blogspot.com/-IJXrzjdErlM/TlwK6DI7GnI/AAAAAAAAATg/uVCuSDTrO4U/s1600/caja+popular+mexicana.jpg" />
+  <img align="center" title="Banco Azteca" alt="Banco Azteca" width="80px" src="https://comunidadblogger.net/wp-content/uploads/2020/11/BANCO-AZTECA-LOGO-02.png" />  
+  <img align="center" title="Babel" alt="Babel" width="90px" src="https://www.babelgroup.com/Content/Styles/img/rebranding/logotipo-babel.svg" />  
+  <img align="center" title="BBVA" alt="BBVA" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BBVA_2019.svg/1280px-BBVA_2019.svg.png" />
 </p>
