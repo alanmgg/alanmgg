@@ -1,12 +1,8 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alanmgg/Assets/main/Readme/%40alanmgg._.banner_python.png" height="260"/>
+  <img src="https://raw.githubusercontent.com/alanmgg/Assets/main/Readme/devops.png" height="260"/>
 </p>
 
 <h1 align="center">¡Hola! Soy Alan</h1>
-
-<p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=000000&center=true&width=435&lines=Computer+Engineer;Software+Enginner+DevOps" alt="Typing SVG" /></a>
-</p>
 
 <p align="center">
   <a href="https://github.com/alanmgg" target="_blank">
@@ -27,23 +23,7 @@
   <em>
 Ingeniero especializado en el desarrollo de aplicaciones web y móviles. Enfocado en la resolución de problemas complejos y diseño atractivo. Actualizado en tendencias tecnológicas, comprometido con la calidad y habilidades destacadas para el trabajo en equipo. Conocimientos en Desarrollo Cloud y prácticas DevOps para una implementación eficiente y continua. 💡
   </em>
-</p>
-
-<p align="center">
-  <table align="center">
-    <tr border="none">
-      <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=alanmgg&theme=default&show_icons=true&count_private=true&locale=es" />
-        <br></br>
-        <img align="center" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=alanmgg&theme=default&hide_border=false&locale=es" /> 
-      </td>
-
-   <td width="50%" align="center">
-        <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=alanmgg&theme=default&hide_border=false&no-bg=true&no-frame=true&langs_count=10&locale=es" />
-      </td>
-    </tr>
-  </table>
-</p>        
+</p>       
 
 <h3 align="center">Habilidades y tecnológias</h3>
 <p align="center">
@@ -52,7 +32,7 @@ Ingeniero especializado en el desarrollo de aplicaciones web y móviles. Enfocad
   </a>
 </p>
 
-<h3 align="center">Empresas con las que he trabajado</h3>
+<h3 align="center">Experiencia laboral</h3>
 <p align="center" classname="justify-content: center;">
   <img align="center" title="Abricot" alt="Abricot" width="80px" src="http://abricot.com.mx/images/logo-abricot.png" />  
   <img align="center" title="Telcel" alt="Telcel" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telcel_logo.svg" />  
