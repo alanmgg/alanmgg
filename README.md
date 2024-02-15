@@ -37,7 +37,6 @@ Ingeniero especializado en el desarrollo de aplicaciones web y móviles. Enfocad
   <img align="center" title="Abricot" alt="Abricot" width="80px" src="http://abricot.com.mx/images/logo-abricot.png" />  
   <img align="center" title="Telcel" alt="Telcel" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telcel_logo.svg" />  
   <img align="center" title="AT&T" alt="AT&T" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/3/31/AT%26T_logo_2016.svg" />  
-  <img align="center" title="Cyttek Group" alt="Cyttek Group" width="75px" src="https://cyttek.com/img/logo-dark.png" />
   <img align="center" title="Banco Azteca" alt="Banco Azteca" width="80px" src="https://comunidadblogger.net/wp-content/uploads/2020/11/BANCO-AZTECA-LOGO-02.png" />  
   <img align="center" title="Babel" alt="Babel" width="90px" src="https://www.babelgroup.com/Content/Styles/img/rebranding/logotipo-babel.svg" />  
   <img align="center" title="BBVA" alt="BBVA" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/BBVA_2019.svg/1280px-BBVA_2019.svg.png" />
