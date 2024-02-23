@@ -21,14 +21,14 @@
 
 <p align="center">
   <em>
-Ingeniero especializado en el desarrollo de aplicaciones web y móviles. Enfocado en la resolución de problemas complejos y diseño atractivo. Actualizado en tendencias tecnológicas, comprometido con la calidad y habilidades destacadas para el trabajo en equipo. Conocimientos en Desarrollo Cloud y prácticas DevOps para una implementación eficiente y continua. 💡
+Ingeniero especializado en el desarrollo de aplicaciones web y móviles, con enfoque en la resolución de problemas complejos y diseño atractivo. Mantengo una actualización constante en tendencias tecnológicasy estoy comprometido con la calidad, destacando en habilidades para el trabajo en equipo. Poseo conocimientos sólidos en Desarrollo Cloud y prácticas DevOps para garantizar una implementación eficiente y continua. 💡
   </em>
 </p>       
 
 <h3 align="center">Habilidades y tecnológias</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,react,nextjs,angular,nodejs,fastapi,flask,django,firebase,mongodb,v,docker,kubernetes,jenkins,ansible,aws,gcp,heroku,mysql,postgres,vscode,git,linux&perline=9" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,react,vue,nextjs,astro,angular,nodejs,fastapi,flask,django,firebase,mongodb,v,docker,kubernetes,jenkins,ansible,aws,gcp,heroku,mysql,postgres,vscode,git,bitbucket,linux&perline=10" />
   </a>
 </p>
 
