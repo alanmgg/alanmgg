@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/alanmgg/Assets/main/Readme/devops.png" height="260"/>
-</p>
-
-<h1 align="center">¡Hola! Soy Alan</h1>
+# <img src="assets/octocat.png" width="100"/> ¡Hola! Soy Alan Francisco Mora
 
 <p align="center">
   <a href="https://github.com/alanmgg" target="_blank">
@@ -19,20 +15,18 @@
   </a>
 </p>
 
-<p align="center">
-  <em>
 Ingeniero especializado en el desarrollo de aplicaciones web y móviles, con enfoque en la resolución de problemas complejos y diseño atractivo. Mantengo una actualización constante en tendencias tecnológicasy estoy comprometido con la calidad, destacando en habilidades para el trabajo en equipo. Poseo conocimientos sólidos en Desarrollo Cloud y prácticas DevOps para garantizar una implementación eficiente y continua. 💡
-  </em>
-</p>       
 
-<h3 align="center">Habilidades y tecnológias</h3>
+## Habilidades y tecnológias
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,py,bash,react,vue,nextjs,astro,angular,nodejs,fastapi,flask,django,firebase,mongodb,v,docker,kubernetes,jenkins,ansible,aws,gcp,heroku,mysql,postgres,vscode,git,bitbucket,linux&perline=10" />
+    <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,js,ts,py,bash,vite,vitest,react,vue,nextjs,angular,nodejs,fastapi,flask,django,firebase,mongodb,docker,kubernetes,jenkins,ansible,grafana,prometheus,aws,gcp,heroku,vercel,mysql,postgres,vscode,git,bitbucket,linux&perline=12" />
   </a>
 </p>
 
-<h3 align="center">Experiencia laboral</h3>
+## Experiencia laboral
+
 <p align="center" classname="justify-content: center;">
   <img align="center" title="Abricot" alt="Abricot" width="80px" src="http://abricot.com.mx/images/logo-abricot.png" />  
   <img align="center" title="Telcel" alt="Telcel" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Telcel_logo.svg" />  
